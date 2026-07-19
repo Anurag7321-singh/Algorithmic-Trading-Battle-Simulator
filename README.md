@@ -25,7 +25,7 @@ An interactive backtesting framework that simulates and compares multiple tradin
 - Animated equity curve race with live scoreboard
 - Dark theme, smooth transitions, and celebration for the winner
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python  
 - Pandas & NumPy  
@@ -67,7 +67,7 @@ An interactive backtesting framework that simulates and compares multiple tradin
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add transaction costs and slippage modeling  
 - Implement reinforcement learning-based trading agent  
